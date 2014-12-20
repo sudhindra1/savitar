@@ -8,6 +8,7 @@ var namespace = namespace || {}
         return this.string;
     }
     namespace.aTest = aTest;
+	var a;
 }());
 
 
