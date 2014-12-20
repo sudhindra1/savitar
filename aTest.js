@@ -10,9 +10,6 @@ var namespace = namespace || {}
     namespace.aTest = aTest;
 	var a;
 	var b;
-	var c;
-	
-	
 }());
 
 
